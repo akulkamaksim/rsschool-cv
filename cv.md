@@ -37,6 +37,8 @@ const func = (num) => {
 - Self-study of the JavaScript language.
 
 7. Frontend developer courses. IT school Myfreedom 2019.
-  [source](https://drive.google.com/file/d/1WWuyJB6F-DtrdwNqdlGF4UbyO7s03ny4/view?usp=sharing)
+  [Singolo](https://funny-kitsune-d6fa52.netlify.app/)
+  [Canvas](https://glowing-jalebi-c57450.netlify.app/)
+  [PhotoEditor](https://frabjous-melomakarona-740096.netlify.app/)
 
 8. English - A2. 
