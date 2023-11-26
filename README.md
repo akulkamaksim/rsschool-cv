@@ -1,1 +1,1 @@
-https://akulkamaksim.github.io/rsschool-cv/
+https://akulkamaksim.github.io/rsschool-cv/index.html
